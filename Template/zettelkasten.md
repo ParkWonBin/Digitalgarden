@@ -1,5 +1,4 @@
 ---
-layout: note
 permalink: /Note/{{date:YYYYMMDD}}
 title: 
 ---
