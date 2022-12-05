@@ -20,5 +20,3 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     max-width: 46em;
   }
 </style>
-
-{% include notes_graph.html %}
