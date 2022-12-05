@@ -16,5 +16,5 @@ title: 제텔케스텐
 - [제텔케스텐 쓰는법](https://youtu.be/dXzfLOCEDaw)
 
 #### \[연결문서]
-- [[Obcidian Study]]
-- [[Obcidian 동기화 요령]]
+- [[20221205_Obcidian Study]]
+- [[20221205_Obcidian Tip]]

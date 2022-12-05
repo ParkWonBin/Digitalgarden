@@ -1,3 +1,7 @@
+---
+permalink: /Note/20221205
+title : Obcidian Study
+---
 #### 날짜 : 2022-12-04 19:16
 #### 주제 : #Obcidian #강좌
 ----

@@ -1,5 +1,7 @@
 ---
-title: {{date:YYYYMMDD}}_
+layout: note
+permalink: /Note/{{date:YYYYMMDD}}
+title: 
 ---
 #### 날짜 : {{date:YYYY-MM-DD}} {{time}}
 #### 주제 : 

@@ -1,10 +1,9 @@
 ---
-layout: page
 permalink: /Note/20221205
 title : Obcidian 동기화 요령
 ---
 #### 날짜 : 2022-12-05 06:31
-#### 주제 : #Obcidian #요령
+#### 주제 : #Obcidian #동기화요령
 ----
 #### 메모
 목적 : 
