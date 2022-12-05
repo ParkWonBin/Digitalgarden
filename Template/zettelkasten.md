@@ -1,6 +1,8 @@
 ---
 layout: page
+title: Note Template
 permalink: /Template
+{{date:YYYYMMDD}}
 ---
 
 #### 날짜 : {{date:YYYY-MM-DD}} {{time}}
@@ -11,6 +13,8 @@ permalink: /Template
 >
 
 #### 출처(참고문헌)
+- 
+
 
 #### 연결문서
 - 
