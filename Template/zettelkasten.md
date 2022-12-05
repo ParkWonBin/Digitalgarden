@@ -1,20 +1,12 @@
 ---
-layout: page
-title: Note Template
-permalink: /Template
-{{date:YYYYMMDD}}
+title: {{date:YYYYMMDD}}_
 ---
-
 #### 날짜 : {{date:YYYY-MM-DD}} {{time}}
-
 #### 주제 : 
 ----
 #### 메모
 >
-
-#### 출처(참고문헌)
+#### 참고문헌
 - 
-
-
 #### 연결문서
 - 

@@ -1,11 +1,7 @@
 ---
-layout: page
-title: bezier curve
-permalink: /20221205
+title: Bezier Curve
 ---
-
 #### 날짜 : 2022-12-05 12:27
-
 #### 주제 : #geometry #Math 
 ----
 #### 메모
