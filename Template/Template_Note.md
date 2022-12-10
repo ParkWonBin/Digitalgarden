@@ -1,9 +1,9 @@
 ---
-permalink: /Note/{{date:YYYYMMDD}}
 title: 
+Date: {{date:YYYY-MM-DD}}
 ---
 #### 날짜 : {{date:YYYY-MM-DD}} {{time}}
-#### 주제 : 
+#### 주제 : #zettelkasten
 ----
 #### 메모
 >

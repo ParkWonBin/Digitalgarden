@@ -1,5 +1,6 @@
 ---
 title: HowTo Zettelkisten
+date: 20221204
 ---
 #### \[ 주제  & 키워드 & 테그 ] #Memo #HowTo
 #### \[나의 생각]
@@ -13,5 +14,5 @@ Zettelkisten 방식의 글쓰기 요령.
 - [ZettelKisten 쓰는법](https://youtu.be/dXzfLOCEDaw)
 
 #### \[연결문서]
-- [[20221205_Obcidian Study]]
-- [[20221205_Obcidian Tip]]
+- [[20221205-Obcidian-Tip]]
+- 

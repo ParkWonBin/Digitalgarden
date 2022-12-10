@@ -4,7 +4,7 @@ exclude:             ['_includes/notes_graph.json']
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
-baseurl:             'https://wbpark.netlify.app/'
+baseurl:             ''
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
@@ -32,14 +32,29 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /:slug
+    permalink: /:categories/:slug
 
 defaults:
   - scope:
       path: "**/*"
     values:
       layout: "default"
+
   - scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+      category: "Note"
+
+  - scope:
+      path: "_pages/**/*.md"
+    values:
+      layout: "page"
+      category: "page"
+      
+  - scope:
+      path: "_Template/**/*.md"
+    values:
+      layout: "page"
+      category: "Template"
+      

@@ -1,5 +1,6 @@
 ---
 title: Bezier Curve
+date: 20221205
 ---
 #### 날짜 : 2022-12-05 12:27
 #### 주제 : #Geometry #Math 
